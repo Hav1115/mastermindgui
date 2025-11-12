@@ -1,0 +1,1 @@
+This is a fully functional Java and Swing based game made using multithreading to allow for multiplayer functionality. It is fully commented, as well as contains javadocs and UML diagrams in the documents folder.
